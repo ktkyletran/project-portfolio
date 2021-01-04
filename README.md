@@ -28,4 +28,4 @@
   ![dropdown-menu](https://user-images.githubusercontent.com/72889560/103574979-864a2880-4e96-11eb-9460-8d771d42a4c0.gif)
 
  <h2>Challenges</h2>
- <p>I ran into issues when trying to make the bootstrap image carousel fit correctly on smaller sized screens. The same issue occurs with the image on the 'About Me' page. I am also still learning the Git Hub commit process which is why you'll see a few messy commits.</p>
+ <p>I ran into issues when trying to make the bootstrap image carousel fit correctly on smaller sized screens. I am also still learning the Git Hub commit process which is why you'll see a few messy commits.</p>
